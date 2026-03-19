@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "DRD",
+    "III"
+  ],
+  "key": {
+    "D": "minecraft:dropper",
+    "I": "#c:ingots/iron",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "pipez:item_pipe",
+    "count": 16
+  }
+}

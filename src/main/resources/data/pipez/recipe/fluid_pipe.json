@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": "minecraft:bucket",
+    "I": "#c:ingots/iron",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "pipez:fluid_pipe",
+    "count": 16
+  }
+}

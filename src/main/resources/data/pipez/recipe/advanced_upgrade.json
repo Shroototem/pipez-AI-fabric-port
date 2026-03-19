@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DRD",
+    "RUR",
+    "DRD"
+  ],
+  "key": {
+    "D": "#c:gems/diamond",
+    "R": "#c:storage_blocks/redstone",
+    "U": "pipez:improved_upgrade"
+  },
+  "result": {
+    "id": "pipez:advanced_upgrade",
+    "count": 1
+  }
+}

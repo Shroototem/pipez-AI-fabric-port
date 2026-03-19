@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": "#c:storage_blocks/redstone",
+    "I": "#c:ingots/iron",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "pipez:energy_pipe",
+    "count": 16
+  }
+}

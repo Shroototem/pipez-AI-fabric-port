@@ -1,0 +1,10 @@
+{
+  "type": "pipez:clear_components",
+  "item": "#pipez:upgrades",
+  "components": [
+    "pipez:item",
+    "pipez:fluid",
+    "pipez:gas",
+    "pipez:energy"
+  ]
+}

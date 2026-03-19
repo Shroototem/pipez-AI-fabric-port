@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "RUR",
+    "GRG"
+  ],
+  "key": {
+    "U": "pipez:basic_upgrade",
+    "G": "#c:ingots/gold",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "pipez:improved_upgrade",
+    "count": 1
+  }
+}

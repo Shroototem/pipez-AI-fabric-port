@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    " SF",
+    "S  "
+  ],
+  "key": {
+    "F": "minecraft:flint",
+    "S": "#c:rods"
+  },
+  "result": {
+    "id": "pipez:wrench",
+    "count": 1
+  }
+}

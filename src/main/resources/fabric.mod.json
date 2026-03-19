@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "pipez",
+	"version": "${version}",
+	"name": "Pipez",
+	"description": "Simple and efficient pipes for transferring items, fluids, energy, and more.",
+	"authors": [
+		"Max Henkel",
+		"shroototem"
+	],
+	"contact": {},
+	"license": "Apache-2.0",
+	"icon": "assets/pipez/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.shroototem.pipez.PipezMod"
+		],
+		"client": [
+			"com.shroototem.pipez.PipezClientMod"
+		]
+	},
+	"mixins": [
+		"pipez.mixins.json",
+		{
+			"config": "pipez.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

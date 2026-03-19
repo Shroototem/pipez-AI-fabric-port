@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NRN",
+    "INI"
+  ],
+  "key": {
+    "N": "#c:nuggets/iron",
+    "I": "#c:ingots/iron",
+    "R": "#c:dusts/redstone"
+  },
+  "result": {
+    "id": "pipez:basic_upgrade",
+    "count": 1
+  }
+}

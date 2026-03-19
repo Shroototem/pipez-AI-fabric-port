@@ -1,0 +1,11 @@
+{
+  "type": "pipez:copy_components",
+  "source": "#pipez:upgrades",
+  "target": "pipez:advanced_upgrade",
+  "components": [
+    "pipez:item",
+    "pipez:fluid",
+    "pipez:gas",
+    "pipez:energy"
+  ]
+}
